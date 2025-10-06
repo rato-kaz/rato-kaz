@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>👋 Hi, I'm <span style="color:#8a2be2">[Your Name]</span></h1>
+  <h1>👋 Hi, I'm <span style="color:#8a2be2">Rato</span></h1>
   <h3>🧑‍💻 AI Engineer • 📍 Vietnam</h3>
 
   <!-- Your GitHub username is set below to show your stats -->
@@ -9,12 +9,6 @@
 </div>
 
 ---
-
-### 🌟 About me
-- 🔭 Currently working on: [current project/job]
-- 🎯 6–12 month goals: [career goals]
-- 💡 Interests: [domains, technologies]
-- ☕ Fun fact: [something fun about you]
 
 ### 🛠️ Skills & Tools
 <!-- Add or remove badges for your stack -->
@@ -30,21 +24,6 @@
 ### 🚀 Featured projects
 - (To be updated later)
 
-### 💼 Experience highlights
-- [Role] at [Company] (YYYY - YYYY): impact/highlight
-- [Role] at [Company] (YYYY - YYYY): impact/highlight
-
-### 🧩 Open source & community
-- Author/contributor: [libraries, articles, talks]
-- Mentoring/Community: [groups, events]
-
-### 📬 Contact
-- ✉️ Email: [email@domain.com]
-- 🌐 Website/Blog: [link]
-- 💼 LinkedIn: [link]
-- 🐦 Twitter/X: [link]
-
----
 
 ### 📊 GitHub stats
 <div>
