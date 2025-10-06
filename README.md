@@ -2,52 +2,56 @@
 
   <h1>👋 Hi, I'm <span style="color:#8a2be2">Rato</span></h1>
   <h3>🧑‍💻 AI Engineer • 📍 Vietnam</h3>
-  <p><em>Building practical AI systems with care for reliability, latency, and cost.</em></p>
+
+  <!-- Your GitHub username is set below to show your stats -->
+  <img src="https://streak-stats.demolab.com?user=rato-kaz&theme=radical" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-### What I do
-- Design, train, and ship ML models end-to-end
-- Productionize inference APIs and data pipelines
-- Balance research prototypes with real-world constraints
+### 🛠️ Skills & Tools
+<!-- Add or remove badges for your stack -->
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=fff" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />
+  <img alt="NLP" src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logoColor=fff" />
+  <img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-0A66C2?style=for-the-badge&logoColor=fff" />
+</p>
 
-### Now
-- Refining model serving patterns (batch vs realtime, streaming)
-- Evaluating prompt+retrieval strategies for stability over time
-- Tidying internal tooling for faster experiments
+### 🚀 Featured projects
+- (To be updated later)
 
-### Focus areas
-- NLP, information retrieval, and evaluation
-- Computer vision for document and scene understanding
-- MLOps: observability, rollouts, drift and cost control
 
-### Stack
-`Python` · `TensorFlow` · `FastAPI` · `Docker` · `NLP` · `Computer Vision`
+### 📊 GitHub stats
+<div>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rato-kaz&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rato-kaz&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
-### Principles
-- Prefer simple, observable systems over fragile, complex ones
-- Measure first, optimize second; keep an eye on tail latencies
-- Small, frequent improvements beat large, infrequent rewrites
-
-### Selected work
-- To be updated later
-
-### Elsewhere
-- Email: to be added
-- Website/Blog: to be added
-- LinkedIn: to be added
-- X/Twitter: to be added
+### 🗓️ Recent activity
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rato-kaz&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</div>
 
 ---
 
 <details>
   <summary>📎 Personal notes (toggle)</summary>
 
-  - [ ] Add selected projects with brief context and visuals
-  - [ ] Fill in contact links and a short bio line
-  - [ ] Revisit stack section with versions and tooling
-  - [ ] Add a small “reading list”/“writing” section
+  <!-- Keep quick outlines, checklists, roadmaps here -->
+  - [ ] Update avatar and banner
+  - [ ] Add real contact info
+  - [ ] Add 2–3 projects with images/demo
+  - [ ] Proofread & format
 
 </details>
+
+<!--
+QUICK GUIDE
+1) Replace [items in brackets] with your info
+2) Username is already set to 'rato-kaz' for the stats and graphs
+3) Remove or add sections as needed
+-->
