@@ -1,16 +1,78 @@
-## Hi there 👋
+<div align="center">
+
+  <h1>👋 Hi, I'm <span style="color:#8a2be2">[Your Name]</span></h1>
+  <h3>🧑‍💻 AI Engineer • 📍 Vietnam</h3>
+
+  <!-- Your GitHub username is set below to show your stats -->
+  <img src="https://streak-stats.demolab.com?user=rato-kaz&theme=radical" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 🌟 About me
+- 🔭 Currently working on: [current project/job]
+- 🎯 6–12 month goals: [career goals]
+- 💡 Interests: [domains, technologies]
+- ☕ Fun fact: [something fun about you]
+
+### 🛠️ Skills & Tools
+<!-- Add or remove badges for your stack -->
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=fff" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />
+  <img alt="NLP" src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logoColor=fff" />
+  <img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-0A66C2?style=for-the-badge&logoColor=fff" />
+</p>
+
+### 🚀 Featured projects
+- (To be updated later)
+
+### 💼 Experience highlights
+- [Role] at [Company] (YYYY - YYYY): impact/highlight
+- [Role] at [Company] (YYYY - YYYY): impact/highlight
+
+### 🧩 Open source & community
+- Author/contributor: [libraries, articles, talks]
+- Mentoring/Community: [groups, events]
+
+### 📬 Contact
+- ✉️ Email: [email@domain.com]
+- 🌐 Website/Blog: [link]
+- 💼 LinkedIn: [link]
+- 🐦 Twitter/X: [link]
+
+---
+
+### 📊 GitHub stats
+<div>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rato-kaz&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rato-kaz&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+### 🗓️ Recent activity
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rato-kaz&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+<details>
+  <summary>📎 Personal notes (toggle)</summary>
+
+  <!-- Keep quick outlines, checklists, roadmaps here -->
+  - [ ] Update avatar and banner
+  - [ ] Add real contact info
+  - [ ] Add 2–3 projects with images/demo
+  - [ ] Proofread & format
+
+</details>
 
 <!--
-**rato-kaz/rato-kaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+QUICK GUIDE
+1) Replace [items in brackets] with your info
+2) Username is already set to 'rato-kaz' for the stats and graphs
+3) Remove or add sections as needed
 -->
