@@ -12,14 +12,14 @@
 
 ### 🛠️ Skills & Tools
 <!-- Add or remove badges for your stack -->
-<p>
+<p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=fff" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />
   <img alt="NLP" src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logoColor=fff" />
   <img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-0A66C2?style=for-the-badge&logoColor=fff" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ff9900" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="28" alt="AWS logo" style="vertical-align: middle; margin-left: 4px;" />
 </p>
 
 ### 🚀 Featured projects
