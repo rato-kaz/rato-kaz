@@ -19,6 +19,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />
   <img alt="NLP" src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logoColor=fff" />
   <img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-0A66C2?style=for-the-badge&logoColor=fff" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ff9900" />
 </p>
 
 ### 🚀 Featured projects
