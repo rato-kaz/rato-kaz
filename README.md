@@ -39,15 +39,6 @@
 
 ---
 
-<details>
-  <summary>📎 Personal notes (toggle)</summary>
-
-  <!-- Keep quick outlines, checklists, roadmaps here -->
-  - [ ] Update avatar and banner
-  - [ ] Add real contact info
-  - [ ] Add 2–3 projects with images/demo
-  - [ ] Proofread & format
-
 </details>
 
 <!--
