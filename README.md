@@ -39,8 +39,6 @@
 
 ---
 
-</details>
-
 <!--
 QUICK GUIDE
 1) Replace [items in brackets] with your info
