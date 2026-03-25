@@ -3,9 +3,6 @@
   <h1>👋 Hi, I'm <span style="color:#8a2be2">Rato</span></h1>
   <h3>🧑‍💻 AI Engineer • 📍 Vietnam</h3>
 
-  <!-- Your GitHub username is set below to show your stats -->
-  <img src="https://streak-stats.demolab.com?user=rato-kaz&theme=radical" alt="GitHub Streak" />
-
 </div>
 
 ---
@@ -21,21 +18,6 @@
   <img alt="Computer Vision" src="https://img.shields.io/badge/Computer%20Vision-0A66C2?style=for-the-badge&logoColor=fff" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="28" alt="AWS logo" style="vertical-align: middle; margin-left: 4px;" />
 </p>
-
-### 🚀 Featured projects
-- (To be updated later)
-
-
-### 📊 GitHub stats
-<div>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rato-kaz&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rato-kaz&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-### 🗓️ Recent activity
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rato-kaz&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
 
 ---
 
